@@ -11,3 +11,5 @@ Best title model: https://drive.google.com/drive/folders/106mX_VwXqpSgnyVcBhkQxn
 Best Category model: https://drive.google.com/drive/folders/1-4ccOlmMHnkYj_xTSY9dSvn1UgTJ70eT
 
 These will need to be downloaded as folders and included in the runtime.
+
+Colab link: https://colab.research.google.com/drive/13EwfsTDocU4P2g523o7-PlvqHi0PnCOk?usp=sharing
